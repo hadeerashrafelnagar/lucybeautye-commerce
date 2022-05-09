@@ -1,0 +1,137 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+img {
+  vertical-align: middle;
+}
+
+/* Slideshow container*/
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+.mySlides img {
+  width: 500px;
+  height: 500px;
+  float: left;
+}
+
+/* Caption text 
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}*/
+
+
+/* The dots/bullets/indicators */
+/*.dot {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}*/
+
+/* Fading animation */
+.fade {
+  animation-name: fade;
+  animation-duration: 2s;
+}
+
+
+@keyframes fade {
+  from {
+    opacity: .7
+  }
+
+  to {
+    opacity: 1
+  }
+}
+
+
+/* form*/
+input[type=text], textarea {
+  width: 500px;
+  padding: 12px;
+  border: 1px solid black;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+.sub {
+  background-color: pink;
+  color: white;
+  padding: 12px 50px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-right: 20px;
+
+}
+
+input[type=submit]:hover {
+  background-color: black;
+}
+
+/*.container {
+  border-radius: 5px; 
+  border: 5px pink solid;
+  margin-right: 200px;
+
+}*/
+input[type=email] {
+  width: 500px;
+  padding: 12px;
+  border: 1px solid black;
+  border-radius: 4px;
+  margin-top: 6px;
+  resize: none;
+}
+
+#rangevalue2 {
+  font-size: 25px;
+}
+
+.container form {
+  padding: 25px 25px;
+  float: right;
+  border: 5px solid pink;
+}
+
+#Thank p {
+  font-size: 30px;
+  text-align: center;
+  color: #6C4A4A;
+  background-color: #EDEDED;
+  margin-top: 200px;
+}
+
+#form {
+  display: inline-block;
+  margin-top: 0px;
+}
+
+c
+
+.container {
+  display: inline;
+}
+
+.con {
+  margin-top: 10em !important;
+}

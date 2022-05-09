@@ -1,0 +1,198 @@
+.navbar .nav .activ, .nav-link:hover {
+    color: #C89595 !important;
+}
+
+.navbar .navbar-toggler {
+    background-color: #DDBEBE;
+}
+
+.navbar .nav .nav-link {
+    color: #DDBEBE;
+    font-size: 1em;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #DDBEBE !important;
+}
+
+.navbar .navbar-brand {
+    display: block !important;
+}
+
+.footer .btn-nav {
+    background-color: #DDBEBE;
+    color: white;
+    border-color: #DDBEBE;
+}
+
+.list-group dt span, .list-group-item dl, .title span {
+    color: #DDBEBE;
+}
+
+.list-group dt {
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.us .col-lg-7 {
+    text-align: center;
+    padding-top: 9%;
+    background-color: #DDBEBE;
+    color: white;
+}
+
+.us {
+    margin-top: 10em;
+}
+
+.us .col-lg-7 h3 {
+    font-size: 3.5em
+}
+
+.us .col-lg-7 p {
+    font-size: 1em;
+}
+
+.title {
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.accordion-item .accordion-body h4 {
+    color: #DDBEBE;
+}
+
+.navbar .navbar-brand img {
+    width: 10%;
+}
+
+.navbar .navbar-brand span {
+    color: #C89595;
+    font-size: 1.1em;
+}
+
+.bg-dark {
+    background-color: #EDEDED !important;
+}
+
+.footer {
+    margin-top: 5.5em;
+    background-color: #EDEDED;
+}
+
+.footer .card {
+    background-color: #EDEDED
+}
+
+.footer .card .listTitle {
+    color: #C89595;
+}
+
+.footer svg {
+    color: #C89595;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #C89595;
+}
+
+.test-img {
+    background-image: url("../images/nav&footer/makeup.jfif");
+    background-position: center;
+    background-size: cover;
+    height: 30em;
+}
+
+.thank {
+    margin-top: 5.5em;
+    text-align: center;
+    background-image: url("../images/nav&footer/photo-1509909756405-be0199881695.jfif");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 17em;
+}
+
+.thank .card {
+    background-color: transparent !important;
+    color: #6C4A4A;
+}
+
+.thank .card h3 {
+    font-size: 2.5em;
+}
+
+.thank .card p {
+    font-size: 1em;
+}
+
+.reviews {
+    text-align: center;
+    margin-top: 5.5em;
+}
+
+.reviews .row .card svg {
+    color: gold;
+}
+
+.reviews .card {
+    background-color: #EDEDED;
+}
+
+#Thank p {
+    font-size: 30px;
+    text-align: center;
+    color: #6C4A4A;
+    background-color: #EDEDED;
+    margin-top: 200px;
+}
+
+.about-img {
+    background-image: url("../images/contact&about/buy.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 30em;
+}
+
+.slider {
+    margin-top: 5.5em;
+}
+
+.footer-img {
+    margin-top: 5.5em;
+    text-align: center;
+    background-image: url("../images/contact&about/shop.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 27em;
+}
+
+.footer-img .card {
+    background-color: transparent !important;
+    color: #6C4A4A;
+    padding: 5.5em;
+}
+
+.footer-img .card h3 {
+    font-size: 2.5em;
+}
+
+.footer-img .card p {
+    font-size: 1em;
+}
+
+.con {
+    margin-top: 10em !important;
+}
+
+#form {
+    border: 2px solid pink;
+    display: inline;
+}
+
+input[type=email] {
+    border: 1px solid black;
+    border-radius: 4px;
+}

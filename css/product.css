@@ -1,0 +1,24 @@
+.btn:hover {
+    background-color: #DDBEBE;
+    color: white;
+    border-color: #DDBEBE;
+}
+
+#checkOut, #addNew, #pay {
+    background-color: #DDBEBE;
+    color: white;
+}
+
+.spinner-border {
+    width: 10rem !important;
+    height: 10rem !important;
+    margin-left: 43%;
+    margin-top: 17%;
+    border: 0.25em #DDBEBE solid;
+    border-right: 0.25em solid transparent;
+    border-radius: 50%;
+}
+
+svg {
+    color: #DDBEBE;
+}

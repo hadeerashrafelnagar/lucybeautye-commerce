@@ -1,0 +1,119 @@
+.bg {
+    background-color: #DDBEBE;
+}
+
+.card-body {
+    padding-top: 1.5em !important;
+}
+
+img {
+    width: 70%;
+    margin: 0 auto;
+    height: 35%;
+}
+
+
+.nav-pills .nav-link:hover {
+    background-color: #DDBEBE;
+    color: white;
+}
+
+.active {
+    background-color: #DDBEBE !important;
+    color: white !important;
+}
+
+.btn:hover {
+    background-color: #DDBEBE;
+    color: white;
+    border-color: #DDBEBE;
+}
+
+.spinner-border {
+    width: 10rem !important;
+    height: 10rem !important;
+    margin-left: 43%;
+    margin-top: 17%;
+    border: 0.25em #DDBEBE solid;
+    border-right: 0.25em solid transparent;
+    border-radius: 50%;
+}
+
+.hid {
+    display: none;
+}
+
+.page-item {
+    border-radius: 20%;
+    background-color: #DDBEBE;
+}
+
+.page-item a {
+    color: white;
+}
+
+svg {
+    color: #DDBEBE;
+}
+
+.bg-img {
+    background-image: url("../images/nav&footer/istockphoto-656296680-170667a.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 30em;
+}
+
+.col-lg-8 {
+    text-align: center;
+    padding-top: 15%;
+    background-color: #DDBEBE;
+    color: white;
+}
+
+.col-lg-8 h3 {
+    font-size: 3.5em
+}
+
+.col-lg-8 p {
+    font-size: 1em;
+}
+
+.front {
+    margin-top: 3.5em;
+    margin-bottom: 3.5em;
+}
+
+.eye-img {
+    background-image: url("../images//eyeproducts/photo-1596205521983-9c372fb3d4f1.jfif");
+    background-position: center;
+    background-size: cover;
+    height: 30em;
+}
+
+.face-img {
+    background-image: url("../images/faceproducts/photo-1624115154367-860f03815d56.jfif");
+    background-position: center;
+    background-size: cover;
+    height: 30em;
+}
+
+.lip-img {
+    background-image: url("../images/lipsproducts/photo-1583769298856-16aedeca86d9.jfif");
+    background-position: center;
+    background-size: cover;
+    height: 30em;
+}
+
+.nail-img {
+    background-image: url("../images/nailsproducts/photo-1604902396830-aca29e19b067.jfif");
+    background-position: center;
+    background-size: cover;
+    height: 30em;
+}
+
+.skin-img {
+    background-image: url("../images/skinproducts/istockphoto-1292373290-170667a.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 30em;
+}
